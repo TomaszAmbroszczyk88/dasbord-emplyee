@@ -7,7 +7,7 @@ Questions
 Does educational level responsible for the attrition of employees?
 Which age group of employees has the maximum attrition?
 Are the employees unsatisfied with the specific job role?
-Which top 6 job role indicates the maximum attrition of employees?
+Which top 4 job role indicates the maximum attrition of employees?
 Does a highly experienced person responsible for leaving the company?
 How does the % salary hike play a crucial role in the increase in attrition of the employee?
 Dataset used
